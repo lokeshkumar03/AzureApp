@@ -1,0 +1,11 @@
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\bin\Debug\netcoreapp2.0\ClientMessageReceiver.deps.json
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\bin\Debug\netcoreapp2.0\ClientMessageReceiver.runtimeconfig.json
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\bin\Debug\netcoreapp2.0\ClientMessageReceiver.runtimeconfig.dev.json
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\bin\Debug\netcoreapp2.0\ClientMessageReceiver.dll
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\obj\Debug\netcoreapp2.0\ClientMessageReceiver.csprojResolveAssemblyReference.cache
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\obj\Debug\netcoreapp2.0\ClientMessageReceiver.csproj.CoreCompileInputs.cache
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\obj\Debug\netcoreapp2.0\ClientMessageReceiver.AssemblyInfoInputs.cache
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\obj\Debug\netcoreapp2.0\ClientMessageReceiver.AssemblyInfo.cs
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\bin\Debug\netcoreapp2.0\ClientMessageReceiver.pdb
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\obj\Debug\netcoreapp2.0\ClientMessageReceiver.dll
+F:\Projects\IoT\ServiceBus\ClientMessageReceiver\ClientMessageReceiver\obj\Debug\netcoreapp2.0\ClientMessageReceiver.pdb
